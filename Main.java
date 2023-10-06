@@ -2,6 +2,7 @@
 public class Main
 {
 	public static void main(String[] args) {
+		//экземпляр
 		LinkedListContainer<String> container = new LinkedListContainer<>();
 		container.add("Element 1");
 		container.add("Element 2");
